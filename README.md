@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ociu08
-- 👀 I’m interested in progammare 
-- 🌱 I’m currently learnincode javascript
+- 👀 I’m interested in code 
+- 🌱 I’m currently learnin code and javascript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
